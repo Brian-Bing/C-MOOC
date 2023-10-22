@@ -29,6 +29,6 @@ int main(int argc, const char * argv[]) {
     double F,C;
     scanf("%lf",&F);
     C = 5*(F-32)/9;
-    printf("%lf\n",C);
+    printf("Celsius=%lf\n",C);
     return 0;
 }
